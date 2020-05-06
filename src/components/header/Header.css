@@ -1,0 +1,15 @@
+.header-container {
+    width: 100%;
+    height: 60px;
+    background: #15804a;
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.linkactive {
+    font-weight: bold;
+}
